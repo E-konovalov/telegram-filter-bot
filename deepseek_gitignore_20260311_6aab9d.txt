@@ -1,0 +1,25 @@
+# Виртуальное окружение
+env/
+venv/
+.env/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# Токены и конфиденциальные данные
+config.py
+*.token
