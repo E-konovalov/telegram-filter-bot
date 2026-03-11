@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, CommandHandler, filters, ContextTypes
 
 # Данные бота
-TOKEN = "8652870745:AAFXQtLcw6DF1_AtWjWNhOml-9bE29-6spc"
+TOKEN = "8652870745:AAFRSQFznHtvD3QQQdEombhjrpbTYGsJrTU"
 ADMIN_ID = 8392355618
 GROUPS = [5019228585, 4878911483]
 
